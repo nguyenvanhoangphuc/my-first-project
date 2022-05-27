@@ -11,5 +11,7 @@ int main(int argc, char const *argv[])
     printf("Phuc viet dong nay");
     printf("Test Phuc viet tiep dong nay");
     printf("Test tiep ne Phuc day");
+    printf("Test Cuong viet tip ne");
+    printf("Test Cuong them dong nx"); 
     return 0;
 }
