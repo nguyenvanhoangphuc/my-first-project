@@ -9,10 +9,6 @@ int main(int argc, char const *argv[])
     printf("Cuong viet dong nay"); 
     printf("Cuong viet tiep dong nay"); 
     printf("Phuc viet dong nay");
-    printf("Test Phuc viet tiep dong nay");
-    printf("Test tiep ne Phuc day");
-    printf("Test Cuong viet tip ne");
-    printf("Test Cuong them dong nx"); 
-    printf("Phuc viet tip file nay"); 
+    printf("ABCDEF"); 
     return 0;
 }
