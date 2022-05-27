@@ -8,5 +8,6 @@ int main(int argc, char const *argv[])
     printf("hinh hoc khong gian vecto va hinh phang"); 
     printf("Cuong viet dong nay"); 
     printf("Cuong viet tiep dong nay"); 
+    printf("Phuc viet dong nay");
     return 0;
 }
