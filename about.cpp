@@ -13,5 +13,8 @@ int main(int argc, char const *argv[])
     printf("Test tiep ne Phuc day");
     printf("Test Cuong viet tip ne");
     printf("Co tinh tao conflict"); 
+    printf("ABCDEF"); 
+    printf("Phuc viet tip file nay"); 
+    printf("Phuc viet tip file nay"); 
     return 0;
 }
